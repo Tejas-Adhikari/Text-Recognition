@@ -62,30 +62,30 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][picture-5]](https://github.com/Tejas-Adhikari/Text-Recognition/)
 
-Text Recognition Android App Project is a native android application. It can be used to extract text from the image. Select any image from gallery or capture the image via camera and extract the text from it. Additionally, the extracted text can also be used for TextToSpeech integration. This project can also be termed as OCR (Optimal character recognition). The system will have modules, namely:
+Text Recognition Android App Project is a native android application. It can be used to extract text from the image. Select any image from gallery or capture the image via camera :camera: and extract the text from it. Additionally, the extracted text can also be used for TextToSpeech integration. This project can also be termed as OCR (Optimal character recognition). The system will have modules, namely:
 
-:point_right: Welcome page:
+:point_right: Welcome page :\
 Welcome page with lottie json file animation
 
-:point_right: Text recognition home page:
+:point_right: Text recognition home page :\
 Where the user will attempt to select any image from gallery or capture the image via camera.
 
-:point_right: Image preview:
+:point_right: Image preview :\
 In this section user will find the selected image preview on the screen.
 
-:point_right: Text recognized:
+:point_right: Text recognized :\
 In this section user will get the extracted text or text recognized from the image selected.
 
-:point_right: TextToSpeech integration:
+:point_right: TextToSpeech integration :\
 The user can also listen to the extracted text or text recognized from the image selected.
 
 ### Built With
 
-:red_circle: Android Studio (Core Java)
-:red_circle: XML
-:red_circle: Lottie Files (Json file)
+:red_circle: Android Studio (Core Java)\
+:red_circle: XML\
+:red_circle: Lottie Files (Json file)\
 
 <!-- GETTING STARTED -->
 
@@ -96,12 +96,12 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 Software requirements:
-• Minimum space required in HDD is 200MB.
-• RAM recommended is 8GB.
-• Internet Connection.
-• Works with both 32bit and 64bit Operating System.
+• Minimum space required in HDD is 200MB.\
+• RAM recommended is 8GB.\
+• Internet Connection.\
+• Works with both 32bit and 64bit Operating System.\
 
-:large_blue_diamond: ['Java JDK'](https://www.oracle.com/in/java/technologies/javase-downloads.html)
+:large_blue_diamond: ['Java JDK'](https://www.oracle.com/in/java/technologies/javase-downloads.html)\
 :large_blue_diamond: ['Android-Studio'](https://developer.android.com/studio)
 
 For more instructions on Installing the the above, This ['Youtube-video'](https://www.youtube.com/watch?v=0zx_eFyHRU0&ab_channel=ProgrammingKnowledge) might be helpful.
@@ -117,13 +117,13 @@ For more instructions on Installing the the above, This ['Youtube-video'](https:
 ## Usage
 
 1. At first Add image
-   [picture-1]
+   <img src="images/picture-1.png" alt="Logo" width="80" height="80">
 2. Image captured through camera
-   [picture-2]
+   <img src="images/picture-2.png" alt="Logo" width="80" height="80">
 3. Crop the image
-   [picture-3]
+   <img src="images/picture-3.png" alt="Logo" width="80" height="80">
 4. Extracted text with speech integration and Image preview below.
-   [picture-4]
+   <img src="images/picture-4.png" alt="Logo" width="80" height="80">
 
 <!-- CONTACT -->
 
