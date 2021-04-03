@@ -96,7 +96,7 @@ For more instructions on Installing the the above, This ['Youtube-video'](https:
 <!-- USAGE EXAMPLES -->
 
 ## Usage
-
+<p align="center">
 1. At first Add image\
 ![Picture1](https://user-images.githubusercontent.com/80888228/113479954-6df6a380-94af-11eb-9500-83061b98b9b7.png)
 2. Image captured through camera\
@@ -105,14 +105,14 @@ For more instructions on Installing the the above, This ['Youtube-video'](https:
 ![Picture3](https://user-images.githubusercontent.com/80888228/113479956-6f27d080-94af-11eb-99de-6d72f80374c2.png)
 4. Extracted text with speech integration and Image preview below.\
 ![Picture4](https://user-images.githubusercontent.com/80888228/113479953-6d5e0d00-94af-11eb-8be0-3278d7bc7959.png)
-
+</p>
 <!-- CONTACT -->
 
 ## Contact
 
 Name - Tejas Adhikari\
 Email - tejas.adhikari@somaiya.edu / adhikari.tejas3@gmail.com\
-LinkedIN - [![LinkedIn][linkedin-shield]][linkedin-url]\
+LinkedIN - [![LinkedIn][linkedin-shield]][linkedin-url]
 
 Project Link: [https://github.com/Tejas-Adhikari/Text-Recognition/](https://github.com/Tejas-Adhikari/Text-Recognition)
 
