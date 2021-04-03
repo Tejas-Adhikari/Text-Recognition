@@ -62,7 +62,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][picture-5]](https://github.com/Tejas-Adhikari/Text-Recognition/)
+(https://github.com/[Tejas-Adhikari]/[Text-Recognition]/blob/[main]/picture-5.png?raw=true)
 
 Text Recognition Android App Project is a native android application. It can be used to extract text from the image. Select any image from gallery or capture the image via camera :camera: and extract the text from it. Additionally, the extracted text can also be used for TextToSpeech integration. This project can also be termed as OCR (Optimal character recognition). The system will have modules, namely:
 
