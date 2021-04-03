@@ -110,26 +110,12 @@ For more instructions on Installing the the above, This ['Youtube-video'](https:
 
 ## Contact
 
-Name - Tejas Adhikari
-Email - tejas.adhikari@somaiya.edu / adhikari.tejas3@gmail.com
-LinkedIN - [![LinkedIn][linkedin-shield]][linkedin-url]
+Name - Tejas Adhikari\
+Email - tejas.adhikari@somaiya.edu / adhikari.tejas3@gmail.com\
+LinkedIN - [![LinkedIn][linkedin-shield]][linkedin-url]\
 
 Project Link: [https://github.com/Tejas-Adhikari/Text-Recognition/](https://github.com/Tejas-Adhikari/Text-Recognition)
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tejas-adhikari-4ba530168/
-[product-screenshot]: images/screenshot.png
-[picture-1]: images/picture1.png
-[picture-2]: images/picture2.png
-[picture-3]: images/picture3.png
-[picture-4]: images/picture4.png
