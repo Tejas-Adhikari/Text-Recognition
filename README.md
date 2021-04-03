@@ -1,5 +1,3 @@
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -91,19 +89,20 @@ For more instructions on Installing the the above, This ['Youtube-video'](https:
 
 1. On GitHub, navigate to the main page of the repository. Above the list of files, click Code. Clone or Download the zip file of the entire project.
 2. Extract the zip file and Open it in Android studio
-3. Run using AVD Manager in Android Studio or Build APK to run the application in android studio.(If you're facing any difficulties to get the .apk file, you can download the apk from the above 'application apk' folder)
+3. Run using AVD Manager in Android Studio or Build APK to run the application in android studio.(If you're facing any difficulties to get the .apk file, you can download the apk from the above ['application apk'](https://github.com/Tejas-Adhikari/Text-Recognition/tree/main/application%20apk) folder)
 
 <!-- USAGE EXAMPLES -->
 
 ## Usage
+
 1. At first Add image\
-![Picture1](https://user-images.githubusercontent.com/80888228/113479954-6df6a380-94af-11eb-9500-83061b98b9b7.png)
+   ![Picture1](https://user-images.githubusercontent.com/80888228/113479954-6df6a380-94af-11eb-9500-83061b98b9b7.png)
 2. Image captured through camera\
-![Picture2](https://user-images.githubusercontent.com/80888228/113479955-6e8f3a00-94af-11eb-991f-963914b1006f.png)
+   ![Picture2](https://user-images.githubusercontent.com/80888228/113479955-6e8f3a00-94af-11eb-991f-963914b1006f.png)
 3. Crop the image\
-![Picture3](https://user-images.githubusercontent.com/80888228/113479956-6f27d080-94af-11eb-99de-6d72f80374c2.png)
+   ![Picture3](https://user-images.githubusercontent.com/80888228/113479956-6f27d080-94af-11eb-99de-6d72f80374c2.png)
 4. Extracted text with speech integration and Image preview below.\
-![Picture4](https://user-images.githubusercontent.com/80888228/113479953-6d5e0d00-94af-11eb-8be0-3278d7bc7959.png)
+   ![Picture4](https://user-images.githubusercontent.com/80888228/113479953-6d5e0d00-94af-11eb-8be0-3278d7bc7959.png)
 
 <!-- CONTACT -->
 
@@ -114,7 +113,6 @@ Email - tejas.adhikari@somaiya.edu / adhikari.tejas3@gmail.com\
 LinkedIN Profile- [![LinkedIn][linkedin-shield]][linkedin-url]
 
 Project Link: [https://github.com/Tejas-Adhikari/Text-Recognition/](https://github.com/Tejas-Adhikari/Text-Recognition)
-
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tejas-adhikari-4ba530168/
