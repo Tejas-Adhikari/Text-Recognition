@@ -1,18 +1,4 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 
 <!-- PROJECT LOGO -->
 <br />
@@ -28,11 +14,6 @@
     <a href="https://cloud.google.com/vision/docs/ocr#vision_text_detection-java"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a> -->
   </p>
 </p>
 
@@ -62,7 +43,7 @@
 
 ## About The Project
 
-![Image1](https://github.com/[Tejas-Adhikari]/[Text-Recognition]/blob/[main]/[images]/picture-5.png?raw=true)
+![picture-5](https://user-images.githubusercontent.com/80888228/113479944-646d3b80-94af-11eb-99cd-2ad0a3257176.PNG)
 
 Text Recognition Android App Project is a native android application. It can be used to extract text from the image. Select any image from gallery or capture the image via camera :camera: and extract the text from it. Additionally, the extracted text can also be used for TextToSpeech integration. This project can also be termed as OCR (Optimal character recognition). The system will have modules, namely:
 
@@ -116,14 +97,14 @@ For more instructions on Installing the the above, This ['Youtube-video'](https:
 
 ## Usage
 
-1. At first Add image
-   <img src="images/picture-1.png" alt="Logo" width="80" height="80">
-2. Image captured through camera
-   <img src="images/picture-2.png" alt="Logo" width="80" height="80">
-3. Crop the image
-   <img src="images/picture-3.png" alt="Logo" width="80" height="80">
-4. Extracted text with speech integration and Image preview below.
-   <img src="images/picture-4.png" alt="Logo" width="80" height="80">
+1. At first Add image\
+![Picture1](https://user-images.githubusercontent.com/80888228/113479954-6df6a380-94af-11eb-9500-83061b98b9b7.png)
+2. Image captured through camera\
+![Picture2](https://user-images.githubusercontent.com/80888228/113479955-6e8f3a00-94af-11eb-991f-963914b1006f.png)
+3. Crop the image\
+![Picture3](https://user-images.githubusercontent.com/80888228/113479956-6f27d080-94af-11eb-99de-6d72f80374c2.png)
+4. Extracted text with speech integration and Image preview below.\
+![Picture4](https://user-images.githubusercontent.com/80888228/113479953-6d5e0d00-94af-11eb-8be0-3278d7bc7959.png)
 
 <!-- CONTACT -->
 
