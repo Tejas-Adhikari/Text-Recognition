@@ -78,12 +78,12 @@ Software requirements:
 • Minimum space required in HDD is 200MB.\
 • RAM recommended is 8GB.\
 • Internet Connection.\
-• Works with both 32bit and 64bit Operating System.\
+• Works with both 32bit and 64bit Operating System.
 
 :large_blue_diamond: ['Java JDK'](https://www.oracle.com/in/java/technologies/javase-downloads.html)\
 :large_blue_diamond: ['Android-Studio'](https://developer.android.com/studio)
 
-For more instructions on Installing the the above, This ['Youtube-video'](https://www.youtube.com/watch?v=0zx_eFyHRU0&ab_channel=ProgrammingKnowledge) might be helpful.
+For more instructions on Installing the above, This ['Youtube-video'](https://www.youtube.com/watch?v=0zx_eFyHRU0&ab_channel=ProgrammingKnowledge) might be helpful.
 
 ### Installation
 
