@@ -95,17 +95,15 @@ For more instructions on Installing the above, This ['Youtube-video'](https://ww
 
 ## Usage
 
-1. At first Add image\
-   ![Picture1](https://user-images.githubusercontent.com/80888228/113479954-6df6a380-94af-11eb-9500-83061b98b9b7.png)
-2. Image captured through camera\
-   ![Picture2](https://user-images.githubusercontent.com/80888228/113479955-6e8f3a00-94af-11eb-991f-963914b1006f.png)
-3. Crop the image\
-   ![Picture3](https://user-images.githubusercontent.com/80888228/113479956-6f27d080-94af-11eb-99de-6d72f80374c2.png)
-4. Extracted text with speech integration and Image preview below.\
-   ![Picture4](https://user-images.githubusercontent.com/80888228/113479953-6d5e0d00-94af-11eb-8be0-3278d7bc7959.png)
-
+<h3 align="center">1. At first Add image</h3>
+    <p align="center"><img src="https://user-images.githubusercontent.com/80888228/113479954-6df6a380-94af-11eb-9500-83061b98b9b7.png" width="400" height="600" align="center">    <br /><br /></p>
+<h3 align="center">2. Image captured through camera</h3>
+     <p align="center"><img src="https://user-images.githubusercontent.com/80888228/113479955-6e8f3a00-94af-11eb-991f-963914b1006f.png" width="400" height="600">    <br /><br /></p>
+<h3 align="center">3. Crop the image</h3>
+   <p align="center"><img src="https://user-images.githubusercontent.com/80888228/113479956-6f27d080-94af-11eb-99de-6d72f80374c2.png" width="400" height="600">    <br /><br /></p>
+<h3 align="center">4. Extracted text with speech integration and Image preview below.</h3>
+   <p align="center"><img src="https://user-images.githubusercontent.com/80888228/113479953-6d5e0d00-94af-11eb-8be0-3278d7bc7959.png" width="400" height="600">    <br /><br /></p>
 <!-- CONTACT -->
-
 ## Contact
 
 Name - Tejas Adhikari\
